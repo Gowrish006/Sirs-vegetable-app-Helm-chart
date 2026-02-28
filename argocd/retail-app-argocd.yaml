@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/sivamani0/Vegetable-app-Helm-chart.git
+    repoURL: https://sivamani0.github.io/Vegetable-app-Helm-chart
     targetRevision: main
     path: charts/veg-app
 
